@@ -1,0 +1,13 @@
+.cart-item {
+  background: white;
+  padding: 10px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 6px;
+}
+
+.total {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}

@@ -1,0 +1,12 @@
+.auth {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.auth button {
+  padding: 10px 15px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
